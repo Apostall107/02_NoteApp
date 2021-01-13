@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_NoteApp", "02_NoteApp.csproj", "{80BC23E9-17EC-46A7-ACAF-AB47923D2E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BC23E9-17EC-46A7-ACAF-AB47923D2E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BC23E9-17EC-46A7-ACAF-AB47923D2E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BC23E9-17EC-46A7-ACAF-AB47923D2E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BC23E9-17EC-46A7-ACAF-AB47923D2E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {601721BE-1464-45A9-9BBF-4711F7DE51A1}
+	EndGlobalSection
+EndGlobal
